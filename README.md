@@ -32,7 +32,7 @@
 <img align="right" height="200px" alt="GIF" src="https://media.tenor.com/TsJCldWFq3IAAAAC/troubleshooting-it-admin.gif" />
 
 - 🔭 I’m currently working on expanding my knowledge in data engineering and big data technologies.
-- 🌱 I’m currently learning more about cloud technologies, specifically focusing on AWS and obtaining my Solution Architect Associate certificate.
+- 🌱 I’m currently learning more about cloud technologies.
 - 👯 I’m looking to collaborate on data-driven projects that involve analyzing and interpreting large datasets to drive meaningful insights.
 - 🤔 I’m looking for help with advanced data engineering techniques and best practices in cloud environments.
 - 💬 Ask me about my experiences in applying mathematical concepts and computer science principles to real-world data analysis challenges.
@@ -99,4 +99,4 @@
 -----
 Credits: [Tsyhankova](https://github.com/Tsyhankova)
 
-Last Edited on: 12/07/2023
+Last Edited on: 10/05/2024
